@@ -9,9 +9,9 @@
   - https://github.com/yt-dlp/yt-dlp
     -  `"E:\TESTE\yt-dlp.exe" -o "E:\TESTE\%(title)s\[%(upload_date)s] %(title)s [%(id)s].%(ext)s" --ffmpeg-location "C:\bin" --add-metadata --write-info-json --write-description >>LINK OF THE VIDEO OR PLAYLIST<<`
 
-2) Facebook >> ???
-3) Instagram >> ???
-4) TikTok >> ???
+2) Facebook
+3) Instagram
+4) TikTok
 5) Russian Social Medias
 6) Chinese Social Medias
 
