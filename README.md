@@ -12,6 +12,8 @@
 2) Facebook >> ???
 3) Instagram >> ???
 4) TikTok >> ???
+5) Russian Social Medias
+6) Chinese Social Medias
 
 #####################
 
