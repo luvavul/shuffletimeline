@@ -1,10 +1,23 @@
 # The Shuffle Timeline Repository | March 5th 2024
 
-Tool to download videos:
-https://github.com/yt-dlp/yt-dlp
+**_(ALWAYS SAVE JSON FILES CONTAINING AUTHOR, UPLOAD DATE, VIEW/LIKES COUNTS, COMMENTS, ETC)_**
 
-Commands used so far:
+TOOLS TO DOWNLOAD VIDEOS AUTOMATICALLY:
+YouTube >> https://github.com/yt-dlp/yt-dlp
+`"E:\TESTE\yt-dlp.exe" -o "E:\TESTE\%(title)s\[%(upload_date)s] %(title)s [%(id)s].%(ext)s" --ffmpeg-location "C:\bin" --add-metadata --write-info-json --write-description >>LINK OF THE VIDEO OR PLAYLIST<<`
 
-`"E:\TESTE\yt-dlp.exe" -o "E:\TESTE\%(title)s\[%(upload_date)s] %(title)s [%(id)s].%(ext)s" --ffmpeg-location "C:\bin" --add-metadata --write-info-json --write-description LINK OF THE VIDEO OR PLAYLIST`
+Facebook >> ???
+Instagram >> ???
+TikTok >> ???
+
+#####################
+
+SCHEDULE:
+1) Make tests
+2) Create archive.org and YouTube accounts
+3) Create Playlists with the community
+4) Download them
+5) Organize them locally (in a Hard Drive, then store in Cloud services)
+6) Share with the community
 
 
