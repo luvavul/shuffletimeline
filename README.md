@@ -7,7 +7,7 @@
 
 1) YouTube
   - https://github.com/yt-dlp/yt-dlp
-    -  `"E:\TESTE\yt-dlp.exe" -o "E:\TESTE\[%(upload_date)s] [%(uploader_id)s] %(title)s [%(id)s]\[%(upload_date)s] [%(uploader_id)s] %(title)s [%(id)s] [%(view_count)s].%(ext)s" --ffmpeg-location "C:\bin" --add-metadata --write-info-json --write-description >>LINK OF THE VIDEO OR PLAYLIST<<`
+    -  `"E:\TESTE\yt-dlp.exe" -o "E:\TESTE\[%(upload_date)s] [%(uploader_id)s] %(title)s [%(id)s] [%(view_count)s]\[%(upload_date)s] [%(uploader_id)s] %(title)s [%(id)s] [%(view_count)s].%(ext)s" --ffmpeg-location "C:\bin" --add-metadata --write-info-json --write-description >>LINK OF THE VIDEO OR PLAYLIST<<`
 
 2) Facebook
 3) Instagram
